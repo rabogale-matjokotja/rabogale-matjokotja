@@ -1,7 +1,8 @@
 # Hi, I'm Rabogale Matjokotja 👋
 
 **Aspiring Database Administrator & Systems Analyst** based in South Africa.
-I enjoy turning real-world problems into well-structured databases and clear system designs.
+I enjoy problem solving.
+A Student.
 
 ## 🛠️ Skills
 
