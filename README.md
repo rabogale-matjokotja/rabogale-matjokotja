@@ -11,9 +11,9 @@ I enjoy turning real-world problems into well-structured databases and clear sys
 | Area | Level | What I can do |
 |---|---|---|
 | SQL / T-SQL | Intermediate | Joins, Views, Indexing |
-| Database design | Constraints |
+| Database design |Basic | Constraints |
 | Java | Basic | OOP fundamentals |
-| System analysis | Requirements, Process Flows, Data Modelling |
+| System analysis | Basic |Requirements, Process Flows, Data Modelling |
 
 ## 📌 Featured project
 **[RetailStock: Inventory & Sales Database](https://github.com/rabogale-matjokotja/retailstock-mssql)**
