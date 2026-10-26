@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Rabogale Matjokotja 👋
 
-<!--
-**rabogale-matjokotja/rabogale-matjokotja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Database Administrator & Systems Analyst** based in South Africa.
+I enjoy turning real-world problems into well-structured databases and clear system designs.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+
+| Area | Level | What I can do |
+|---|---|---|
+| SQL / T-SQL | Intermediate | Joins, Views, Indexing |
+| Database design | Constraints |
+| Java | Basic | OOP fundamentals |
+| System analysis | Requirements, Process Flows, Data Modelling |
+
+## 📌 Featured project
+**[RetailStock: Inventory & Sales Database](https://github.com/rabogale-matjokotja/retailstock-mssql)**
+An MS SQL Server database that tracks stock and sales, flags products that need reordering, finds slow-moving stock and feeds a live analytics dashboard.
+🔗 [View the live dashboard](https://rabogale-matjokotja.github.io/retailstock-mssql/)
+
+## 🎯 Currently working towards
+- Strengthening T-SQL: query tuning and execution plans
+- Backup, recovery and security basics for database administration
+- Documenting systems with UML and process diagrams
+
+## 📫 Let's connect
+· [Email](rabomatjuks@gmail.com)
