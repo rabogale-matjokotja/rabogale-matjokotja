@@ -24,10 +24,10 @@ An MS SQL Server database that tracks stock and sales, flags products that need 
 
 | Area | Where I'm at | What I've practised |
 |---|---|---|
-| SQL / T-SQL | Still learning | Joins, views, indexing |
+| SQL / T-SQL | Still learning | Joins, Views, Indexing |
 | Database design | Beginner | Constraints |
 | Java | Beginner | OOP fundamentals |
-| Systems analysis | Beginner | Requirements, process flows, data modelling |
+| Systems analysis | Beginner | Requirements, Process Flows, Data Modelling |
 
 ## 🎯 Next steps
 
