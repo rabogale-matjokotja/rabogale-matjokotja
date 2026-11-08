@@ -20,7 +20,7 @@ I'm early in my career and I learn by building. I pick a real-world problem, des
 
 **Community Library & Book Lending System** (T-SQL): a database for members, books, loans and returns, designed and coded by me from the ERD up.
 
-## 🛠️ Skills (stated honestly)
+## 🛠️ Skills
 
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
@@ -31,7 +31,7 @@ I'm early in my career and I learn by building. I pick a real-world problem, des
 | SQL / T-SQL | Still learning | Join multiple tables to answer business questions, build views for reporting and create indexes to speed up queries |
 | Database design | Beginner | Turn a real-world scenario into tables with keys and constraints that keep data valid |
 | Java | Beginner | Build programs with classes and objects using core OOP principles |
-| Systems analysis | Beginner | Gather and write down requirements, map process flows and model data before building |
+| System Analysis | Beginner | Gather and write down requirements, map process flows and model data before building |
 
 ## 🎯 Next steps
 
