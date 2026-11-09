@@ -78,7 +78,7 @@ flowchart LR
     A["Understand<br/>the problem"] --> B["Write the<br/>requirements"] --> C["Map the process<br/>and model the data"] --> D["Build it in<br/>tables and T-SQL"]
 ```
 
-## 🛠️ Skills, stated honestly
+## 🛠️ Skills
 
 ![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
