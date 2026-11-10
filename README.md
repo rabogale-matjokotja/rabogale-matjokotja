@@ -84,12 +84,12 @@ flowchart LR
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
-| Area | Level | What I can do so far |
+| Area | What I can do so far |
 |---|---|---|
-| SQL / T-SQL | Still learning | Joins, views for reporting and indexes to speed up queries |
-| Database design | Beginner | Tables with keys and constraints that keep data valid |
-| Java | Beginner | Classes and objects using core OOP principles |
-| System analysis | Beginner | Requirements, process flows and data modelling |
+| SQL / T-SQL | Joins, views for reporting and indexes to speed up queries |
+| Database design | Tables with keys and constraints that keep data valid |
+| Java | Classes and objects using core OOP principles |
+| System analysis | Requirements, process flows and data modelling |
 
 ## 🎯 Next steps
 
