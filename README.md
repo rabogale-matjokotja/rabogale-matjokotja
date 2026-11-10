@@ -34,7 +34,7 @@ I'm early in my career and I learn by building. I pick a real-world problem, des
 
 ## 📌 Featured project
 
-### [RetailStock: Inventory & Sales Database](https://github.com/rabogale-matjokotja/retailstock-mssql)
+### [RetailStock: Inventory & Sales Database](https://github.com/rabogale-matjokotja/retailstock)
 
 > **The problem:** a small retailer needs to know what to reorder and what isn't selling.
 
@@ -44,7 +44,7 @@ An **MS SQL Server** database that answers those questions.
 - T-SQL queries and views that flag products to reorder and find slow-moving stock
 - A static dashboard published with GitHub Pages
 
-**[→ Live dashboard](https://rabogale-matjokotja.github.io/retailstock-mssql/)** · **[→ Code](https://github.com/rabogale-matjokotja/retailstock-mssql)**
+**[→ Live dashboard](https://rabogale-matjokotja.github.io/retailstock/)** · **[→ Code](https://github.com/rabogale-matjokotja/retailstock)**
 
 <details>
 <summary><b>View the data model</b></summary>
@@ -85,7 +85,7 @@ flowchart LR
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 | Area | What I can do so far |
-|---|---|---|
+|---|---|
 | SQL / T-SQL | Joins, views for reporting and indexes to speed up queries |
 | Database design | Tables with keys and constraints that keep data valid |
 | Java | Classes and objects using core OOP principles |
